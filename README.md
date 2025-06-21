@@ -1,6 +1,6 @@
 # Set Operators – Assignment 1 (ΜΥΕ041 / ΠΛΕ081)
 
-This repository contains Python implementations of set operators over relational data stored in `.tsv` format. Developed as part of the _Διαχείριση Σύνθετων Δεδομένων_ course at the University of Ioannina.
+This repository contains Python implementations of set operators over relational data stored in `.tsv` format. Developed as part of the Spacial Data Management course at the University of Ioannina.
 
 ## 👨‍💻 Author
 
@@ -35,13 +35,6 @@ python3 ask1.5.py R.tsv Rgroupby.tsv
 
 > ⚠️ **Important:** All input files must be placed in the same directory, or their full paths must be specified when running the scripts.
 
-## 📌 Input Data
-
-The input files `R.tsv`, `R_sorted.tsv`, `S.tsv`, and `S_sorted.tsv` are provided via the course platform (eCourse). They are **not included** in this repository to comply with submission guidelines:
-
-> _“Μην υποβάλετε αρχεία δεδομένων.”_ – Assignment1.pdf
-
-Please make sure to place the correct input files in the working directory before execution.
 
 ## 🛠️ Requirements
 
