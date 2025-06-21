@@ -6,20 +6,6 @@ This repository contains Python implementations of set operators over relational
 
 **Dimitrios Pagonis**
 
-## 📁 Repository Structure
-
-Assignment_1/
-│
-├── ask1.1.py         # Merge Join
-├── ask1.2.py         # Union
-├── ask1.3.py         # Intersection
-├── ask1.4.py         # Set Difference
-├── ask1.5.py         # Group By and Aggregation (Sum)
-│
-├── Report.pdf        # Implementation explanation
-├── Assignment1.pdf   # Official assignment description
-└── README.md         # This file
-
 
 ## ⚙️ How to Run
 
